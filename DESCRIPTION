@@ -29,7 +29,7 @@ Suggests: devtools, lintr, pkgdown, testthat, knitr, methods,
         rmarkdown, roxygen2, spelling, styler, usethis, covr
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2025-01-15 10:41:09 UTC; barnett1
+Packaged: 2025-01-15 12:27:35 UTC; barnett1
 Author: Tim Barnett [cph, aut, cre],
   Nathan Rees [aut],
   Alana Harris [aut],
